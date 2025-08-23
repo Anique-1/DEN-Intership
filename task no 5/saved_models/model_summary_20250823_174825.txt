@@ -1,0 +1,14 @@
+SENTIMENT CLASSIFIER MODEL SUMMARY
+========================================
+
+Model Name: Naive Bayes
+Feature Type: TF-IDF
+Save Timestamp: 20250823_174825
+Model File: best_sentiment_classifier_naive_bayes_tf-idf_20250823_174825.pkl
+
+PERFORMANCE METRICS:
+--------------------
+Accuracy: 0.4834
+Precision: 0.4118
+Recall: 0.4834
+F1 Score: 0.3625
